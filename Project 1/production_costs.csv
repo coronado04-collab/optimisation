@@ -1,0 +1,13 @@
+﻿product,laboratory,production_cost
+Painkiller,Leganes_Plant,1.046
+Painkiller,Zaragoza_Plant,3.86
+Painkiller,Malaga_Plant,1.124
+Antibiotic,Leganes_Plant,3.904
+Antibiotic,Zaragoza_Plant,3.596
+Antibiotic,Malaga_Plant,3.536
+Vaccine,Leganes_Plant,3.93
+Vaccine,Zaragoza_Plant,1.762
+Vaccine,Malaga_Plant,1.916
+Antiviral,Leganes_Plant,2.706
+Antiviral,Zaragoza_Plant,2.498
+Antiviral,Malaga_Plant,3.524
